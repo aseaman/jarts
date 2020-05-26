@@ -1,0 +1,31 @@
+.nav {
+    align-items: center;
+    background-color: #7c94b3;
+    box-sizing: border-box;
+    color: #e4e8f0;
+    display: flex;
+    margin: 0;
+    min-width: 0px;
+    padding: 0 0.5em;
+    justify-content: space-between;
+}
+
+.controls {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+}
+
+.button {
+    background-color: #ad4243;
+    border-radius: 0.25rem;
+    border-width: 0;
+    box-sizing: border-box;
+    color: #e4e8f0;
+    font-weight: 700;
+    margin: 0 0.5rem 0 0;
+    min-width: 0;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    text-decoration: none;
+}
